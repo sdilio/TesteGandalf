@@ -1,7 +1,3 @@
 # TesteGandalf
 
-rrrrrrrrrrrrrrrrrrrrrr
-
-
-
-DASDSADSADASADSDSA
+sadasdas
